@@ -28,6 +28,8 @@
 📁 Organizador de Arquivos
 Sistema que organiza automaticamente arquivos por tipo (imagens, documentos, vídeos, etc), criando pastas e movendo arquivos de forma automática.
 
+📁 Sistema de Cadastro (CRUD)
+Aplicação em Python para gerenciamento de usuários com operações completas de CRUD e armazenamento persistente em JSON, simulando o funcionamento de sistemas reais de back-end.
 ---
 
 ## 📫 Contato
